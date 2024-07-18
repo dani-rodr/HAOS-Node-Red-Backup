@@ -1,0 +1,11 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-loop-processing": "~0.5.1",
+        "node-red-contrib-message-counter": "~1.0.1",
+        "node-red-contrib-remote": "~1.5.3"
+    }
+}
